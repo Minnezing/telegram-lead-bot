@@ -1,0 +1,15 @@
+[project]
+name = "telegram-lead-bot"
+version = "0.1.0"
+requires-python = ">=3.13"
+
+authors = [
+   { name = "Minnezing", email = "fdtochinov25@gmail.com" }
+]
+dependencies = [
+    "aiogram>=3.28.2",
+]
+
+[project.urls]
+Homepage = "https://github.com/Minnezing/telegram-lead-bot"
+Repository = "https://github.com/Minnezing/telegram-lead-bot.git"
